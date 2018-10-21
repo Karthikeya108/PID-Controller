@@ -37,12 +37,14 @@ int main()
   PID pid;
   // TODO: Initialize the pid variable.
   pid = PID();
+  //P, I, D values set by manual tuning
   pid.Init(0.5, 0.001, 3.0);
   pid.p_error = 0.0;
   pid.d_error = 0.0;
   pid.i_error = 0.0; 
 
   speed_pid = PID();
+  //P, I, D values set by manual tuning
   speed_pid.Init(0.9, 0.005, 5.0);
   speed_pid.p_error = 0.0;
   speed_pid.d_error = 0.0;
