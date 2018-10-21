@@ -30,11 +30,11 @@ Driving around with low throttle value (0.3) was smooth, although the speed was 
 ## Snapshots
 
 
-<img src="./images/1.png" height="200" width="1000">
+<img src="./images/1.png" height="400" width="800">
 
-<img src="./images/2.png" height="200" width="1000">
+<img src="./images/2.png" height="400" width="800">
 
-<img src="./images/3.png" height="200" width="1000">
+<img src="./images/3.png" height="400" width="800">
 
 
  
